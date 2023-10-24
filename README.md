@@ -1,4 +1,6 @@
-# Zenn Qiita Contents
+# Fork後調べたこと
 
-- Zenn: https://zenn.dev/ot07
-- Qiita: https://qiita.com/ot07
+1. どうやらQiita Zenn間ではmarkdownの何かが違うらしい
+2. そういえばnoteも一括投稿出来たらいいなと思った
+3. ただ、執筆内容は決まってない
+4. 毎日技術仕事しているのでとりあえず技術日記にしたらいいんじゃないかと思ってる
